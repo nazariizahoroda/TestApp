@@ -7,7 +7,6 @@ C:\Users\Admin\Documents\Test\TestAppExi\bin\Debug\netcoreapp3.1\TestAppExi.runt
 C:\Users\Admin\Documents\Test\TestAppExi\bin\Debug\netcoreapp3.1\TestAppExi.runtimeconfig.dev.json
 C:\Users\Admin\Documents\Test\TestAppExi\bin\Debug\netcoreapp3.1\TestAppExi.dll
 C:\Users\Admin\Documents\Test\TestAppExi\bin\Debug\netcoreapp3.1\TestAppExi.pdb
-C:\Users\Admin\Documents\Test\TestAppExi\obj\Debug\netcoreapp3.1\TestAppExi.csprojAssemblyReference.cache
 C:\Users\Admin\Documents\Test\TestAppExi\obj\Debug\netcoreapp3.1\TestAppExi.AssemblyInfoInputs.cache
 C:\Users\Admin\Documents\Test\TestAppExi\obj\Debug\netcoreapp3.1\TestAppExi.AssemblyInfo.cs
 C:\Users\Admin\Documents\Test\TestAppExi\obj\Debug\netcoreapp3.1\TestAppExi.csproj.CoreCompileInputs.cache
