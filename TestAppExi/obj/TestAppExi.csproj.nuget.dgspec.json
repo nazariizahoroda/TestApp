@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\source\\repos\\TestAppExi\\TestAppExi\\TestAppExi.csproj": {}
+    "C:\\Users\\Admin\\Documents\\Test\\TestAppExi\\TestAppExi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\source\\repos\\TestAppExi\\TestAppExi\\TestAppExi.csproj": {
+    "C:\\Users\\Admin\\Documents\\Test\\TestAppExi\\TestAppExi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\TestAppExi\\TestAppExi\\TestAppExi.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Documents\\Test\\TestAppExi\\TestAppExi.csproj",
         "projectName": "TestAppExi",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\TestAppExi\\TestAppExi\\TestAppExi.csproj",
+        "projectPath": "C:\\Users\\Admin\\Documents\\Test\\TestAppExi\\TestAppExi.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\TestAppExi\\TestAppExi\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Documents\\Test\\TestAppExi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
